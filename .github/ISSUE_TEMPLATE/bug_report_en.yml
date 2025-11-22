@@ -54,8 +54,8 @@ body:
       description: >-
         Please describe the issue you encountered in as much detail as possible. 
         <br>Clearer and more detailed descriptions will receive higher processing priority
-      validations:
-        required: true
+    validations:
+      required: true
 
   - type: textarea
     id: step
